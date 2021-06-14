@@ -42,7 +42,7 @@ const TeamDetail = () => {
         </div>
 
         <div className="team right">
-          <img className="jersey" src={strTeamJersey} alt="Jersey image" />
+          <img className="jersey" src={strTeamJersey} alt="Jersey" />
         </div>
       </div>
 
