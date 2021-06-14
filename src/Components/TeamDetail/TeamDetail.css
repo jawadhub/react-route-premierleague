@@ -1,0 +1,33 @@
+.all-team{
+  text-align:center;
+}
+.jersey{
+  height: 200px;
+}
+
+.description{
+  text-align:justify;
+  margin: 10px 20px;
+  padding: 20px;
+}
+
+.per-team{
+  width: 95%;
+  height: 300px;
+}
+.team{
+  float: left;
+  margin: 20px;
+}
+.left{
+  width: 40%;
+}
+.right{
+  width: 50%;
+}
+
+.social-icon{
+  margin: 10px 15px;
+  
+  padding: 20px;
+}
